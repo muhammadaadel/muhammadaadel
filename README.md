@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> This is <a href="https://www.linkedin.com/in/3adiola/" target="_blank">Muhammad Adel</a>, a Data & AI Fanatic 🤖<br>
   <br>
-    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="270">
  </abc>
 
 ### Glad to see you here! 
