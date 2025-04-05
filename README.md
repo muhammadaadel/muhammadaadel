@@ -7,7 +7,7 @@
  </abc>
 
 ### 
-- 👨🏻‍💻 I'm a junior Data Engineer, AI Fanatic & ITI graduate.
+- 👨🏻‍💻 I'm a junior Data Engineer & ITI graduate.
 - 🧠 Proficient in SQL, Python, Data warehousing, Apache Airflow and Apache Spark.
 - 🔥 Eager to help organizations make better decisions with my flawless data pipelines.
 
