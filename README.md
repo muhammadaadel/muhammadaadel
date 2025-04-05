@@ -22,5 +22,6 @@
 
 ### 📩 reach me out:
 - [LinkedIn](https://www.linkedin.com/in/3adiola/)
-- [Email](muhammad.aadel97@gmail.com)
+- [Email](mailto:muhammad.aadel97@gmail.com)
+
 
