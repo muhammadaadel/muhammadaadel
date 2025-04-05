@@ -14,7 +14,7 @@
 
 
 ### ⚙️ Projects:
-- [Union Bank ETL pipline](https://github.com/3adiola/Data-Engineering/tree/main/Bank_ETL_SSIS) to design a Data Warehouse for a bank to support 
+- [Union Bank ETL pipline](https://github.com/3adiola/Data-Engineering/tree/main/Bank_ETL_SSIS) a Data Warehouse for a bank to support 
   Bi and analytics.
 - [Covid-19 ETL pipeline](https://github.com/3adiola/Data-Engineering/tree/main/6-%20Covid-19%20analysis) for pandemic analysis  
 - [Indian premier League analysis](https://github.com/3adiola/Data-Engineering/tree/main/Indian%20Premier%20League%20data%20analysis%20project) 
