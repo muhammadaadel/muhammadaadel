@@ -11,14 +11,13 @@
 - 🧠 Proficient in SQL, Python, Data warehousing, Apache Airflow and Apache Spark.
 - 🔥 Eager to help organizations make better decisions with my flawless data pipelines.
 
-
-
 ### ⚙️ Projects:
-- [Union Bank ETL pipline](https://github.com/3adiola/Data-Engineering/tree/main/Bank_ETL_SSIS) a Data Warehouse for a bank to support 
-  Bi and analytics.
-- [Covid-19 ETL pipeline](https://github.com/3adiola/Data-Engineering/tree/main/6-%20Covid-19%20analysis) for pandemic analysis  
-- [Indian premier League analysis](https://github.com/3adiola/Data-Engineering/tree/main/Indian%20Premier%20League%20data%20analysis%20project) 
-  for analyzing Indian premier league(IPL) for Cricket  
+--------
+| No. | Repo | Description
+| :--: | :--: | :--: |
+| 1 | [Union Bank ETL pipline](https://github.com/3adiola/Data-Engineering/tree/main/Bank_ETL_SSIS) | A Data Warehouse for a bank to support Bi and analytics. |
+| 2 | [Covid-19 ETL pipeline](https://github.com/3adiola/Data-Engineering/tree/main/6-%20Covid-19%20analysis) | Covid-19 ETL pipeline for pandemic analysis |
+| 3 | [Indian premier League analysis](https://github.com/3adiola/Data-Engineering/tree/main/Indian%20Premier%20League%20data%20analysis%20project) | Analyzing Indian premier league(IPL) for Cricket using Pyspark|
 
 ### 📩 reach me out:
 - [LinkedIn](https://www.linkedin.com/in/3adiola/)
