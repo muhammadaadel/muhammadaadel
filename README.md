@@ -15,10 +15,10 @@
 --------
 | No. | Repo | Description
 | :--: | :--: | :--: |
-| 1 | [Union Bank ETL pipline](https://github.com/3adiola/Data-Engineering/tree/main/Bank_ETL_SSIS) | A Data Warehouse for a bank to support Bi and analytics. |
+| 1 | [Union Bank ETL pipline](https://github.com/muhammadaadel/Banking-ETL-Analytics-Pipeline-SSIS) | A Data Warehouse for a bank to support Bi and analytics. |
 | 2 | [Olympics Analysis](https://github.com/muhammadaadel/olympics-analysis-and-visualiztion) | Olympic Games analysis & visualization using Power BI |
-| 3 | [Covid-19 ETL pipeline](https://github.com/3adiola/Data-Engineering/tree/main/6-%20Covid-19%20analysis) | Covid-19 ETL pipeline for pandemic analysis |
-| 4 | [Indian premier League analysis](https://github.com/3adiola/Data-Engineering/tree/main/Indian%20Premier%20League%20data%20analysis%20project) | Analyzing Indian premier league(IPL) for Cricket using Pyspark|
+| 3 | [Covid-19 ETL pipeline](https://github.com/muhammadaadel/Covid-19-analysis-pipeline) | Covid-19 ETL pipeline for pandemic analysis |
+| 4 | [Indian premier League analysis](https://github.com/muhammadaadel/IPL-Analytics-Pipeline-Spark) | Analyzing Indian premier league(IPL) for Cricket using Pyspark|
 
 ### 📩 reach me out:
 - [LinkedIn](https://www.linkedin.com/in/3adiola/)
