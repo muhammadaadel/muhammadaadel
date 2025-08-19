@@ -15,7 +15,7 @@
 --------
 | No. | Repo | Description
 | :--: | :--: | :--: |
-| 1 | [Retail ELT Pipeline](https://github.com/muhammadaadel/Retail-ELT-dbt-snowflake) | An End-to-End ELT Pipeline for retail analysis|
+| 1 | [Retail ELT Pipeline](https://github.com/muhammadaadel/Retail-ELT-dbt-snowflake) | An End-to-End ELT Pipeline for retail analysis with dbt, snowflake and airflow|
 | 2 | [Union Bank ETL pipline](https://github.com/muhammadaadel/Banking-ETL-Analytics-Pipeline-SSIS) | A Data Warehouse for a bank to support Bi and analytics with SSIS|
 | 3 | [Olympics Analysis](https://github.com/muhammadaadel/olympics-analysis-and-visualiztion) | Olympic Games analysis & visualization using Power BI |
 | 4 | [Covid-19 ETL pipeline](https://github.com/muhammadaadel/Covid-19-analysis-pipeline) | Covid-19 ETL pipeline for pandemic analysis |
