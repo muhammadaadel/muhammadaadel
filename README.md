@@ -8,7 +8,9 @@
 
 ### 
 - I'm a junior Data Engineer & ITI graduate.
-- Proficient in SQL, Python, Data warehousing, Data odeling and ETL/ELT.
+- Skilled in SQL, Python building ETL/ELT pipelines.
+- Proficient in data modeling and data warehousing.
+- Adept at data visualization and business intelligence with Power BI
 
 ### ⚙️ Projects:
 --------
