@@ -8,8 +8,7 @@
 
 ### 
 - I'm a junior Data Engineer & ITI graduate.
-- Proficient in SQL, Python, Data warehousing, Apache Airflow and Apache Spark.
-- Ready to help organizations make better decisions with my flawless data pipelines.
+- Proficient in SQL, Python, Data warehousing, Data odeling and ETL/ELT.
 
 ### ⚙️ Projects:
 --------
